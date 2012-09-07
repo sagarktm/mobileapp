@@ -1,0 +1,4 @@
+<input type="checkbox" name="foo" value="bar" />
+<input type="button" onclick="show_checked()" value="Show" />
+<input type="button" onclick="set_checked(true)" value="On" />
+<input type="button" onclick="set_checked(false)" value="Off" />
