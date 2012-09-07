@@ -51,5 +51,7 @@ echo "$file_name | could not be uploaded!";
 </head>
 
 </html>"
-
+<?php
+echo"image uploaded successfully";
+?>
 
